@@ -1,0 +1,1 @@
+After installing Nix/NixOS put the files in a directory and run `nix develop`. You will be put in an isolated dev environment with al the dependancies for cuda development. This runs native on your system. So there is no performance hit.
